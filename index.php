@@ -61,8 +61,8 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1>Monedero respaldado por Coinbase.com.ar</h1>
-            <h3>Recargas mediante Bitcoins tarjetas &amp; Ciudadana y Metropolitana</h3>
+            <h1>Tucumán Bitcoin respaldado por Coinbase.com.ar</h1>
+            <h3>Recargas de tarjetas Ciudadana &amp; Metropolitana mediante Bitcoins</h3>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Averiguar más</a>
         </div>
@@ -88,7 +88,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <h2>Our Services</h2>
+                    <h2>Nuestros Servicios</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-3 col-sm-6">
@@ -146,7 +146,7 @@
                                     <strong>Negocios adheridos</strong>
                                 </h4>
                                 <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnología.</p>
-                                <a href="#" class="btn btn-light">Lista de Comercios</a>
+                                <a href="http://tucubondi.com.ar/ciudadana" class="btn btn-light">Mapa de Comercios</a>
                             </div>
                         </div>
                     </div>
