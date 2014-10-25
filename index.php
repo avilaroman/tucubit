@@ -101,7 +101,7 @@
                                     <strong>Consulta de saldo</strong>
                                 </h4>
                                 <p>Ingresá tu numero de tarjeta y realizás una consulta de saldo en la tarjeta Ciudadana.</p>
-                                <a href="#" class="btn btn-light">Consultar Saldo ya!</a>
+                                <a href="http://tucuman.miredbus.com.ar/" class="btn btn-light">Consultar Saldo ya!</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -114,7 +114,13 @@
                                     <strong>Recarga Bitcoin</strong>
                                 </h4>
                                 <p>Recarga de saldo mediante Bitcoins, fácil y rápido</p>
-                                <a href="#" class="btn btn-light">Learn More</a>
+                                <a href="#" class="btn btn-light">Recargar!</a>
+                                <form action="https://bitpay.com/checkout" method="post" >
+  <input type="hidden" name="action" value="checkout" />
+  <input type="hidden" name="posData" value="" />
+  <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
+  <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+</form>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -215,6 +221,12 @@
                     <h3>Noticias sobre la Fundación Bitcoin Argentina.</h3>
                     <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-light">Click aquí!</a>
                     <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-dark">Mírame!</a>
+                    <form action="https://bitpay.com/checkout" method="post" >
+  <input type="hidden" name="action" value="checkout" />
+  <input type="hidden" name="posData" value="" />
+  <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
+  <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+</form>
                 </div>
             </div>
         </div>
