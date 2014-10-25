@@ -38,7 +38,7 @@
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
-                <a href="#top">Tucumán Bitcoins entorno monedero Ciudadana y Metropolitana</a>
+                <a href="#top">Tucumán Bitcoins</a>
             </li>
             <li>
                 <a href="#top">Inicio</a>
@@ -153,10 +153,10 @@
         <!-- /.container -->
     </section>
 
-    <!-- Callout -->
+    <!-- Calloutpl -->
     <aside class="callout">
         <div class="text-vertical-center">
-            <h1>texto vertical</h1>
+            <h1>Planificación integral</h1>
         </div>
     </aside>
 
@@ -165,7 +165,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Our Work</h2>
+                    <h2>Nuestras cosas</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
@@ -212,9 +212,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3>The buttons below are impossible to resist.</h3>
-                    <a href="#" class="btn btn-lg btn-light">Click aquí!</a>
-                    <a href="#" class="btn btn-lg btn-dark">Mírame!</a>
+                    <h3>Noticias sobre la Fundación Bitcoin Argentina.</h3>
+                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-light">Click aquí!</a>
+                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-dark">Mírame!</a>
                 </div>
             </div>
         </div>
