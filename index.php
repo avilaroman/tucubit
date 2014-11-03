@@ -62,7 +62,7 @@
     <header id="top" class="header">
         <div class="text-vertical-center">
             <h1>Tucumán Bitcoin respaldado por Coinbase.com.ar</h1>
-            <h3>Recargas de tarjetas Ciudadana &amp; Metropolitana mediante Bitcoins</h3>
+            <h1>Recargas de tarjetas Ciudadana &amp; Metropolitana mediante Bitcoins</h1>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Averiguar más</a>
         </div>
@@ -73,8 +73,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>con mediante el uso de la Plataforma Bitpay</h2>
-                    <p class="lead">generación de código QR para la recarga realizada en la transacción  <a target="_blank" href="https://docs.google.com/forms/d/1NwUnJbzSFHApX_I-L8L-Y22VKIhHiG9j7S125yNs3Ms/viewform?fbzx=-7550119633173171882">Alta de Usuario en Tucubit.com</a>.</p>
+                    <h2>mediante el uso de la Plataforma Bitpay</h2>
+                    <p class="lead">generación de código QR para la recarga deseada.   <a target="_blank" href="https://docs.google.com/forms/d/1NwUnJbzSFHApX_I-L8L-Y22VKIhHiG9j7S125yNs3Ms/viewform?fbzx=-7550119633173171882">Alta de Usuario en Tucubit.com</a>.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -171,7 +171,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Nuestras cosas</h2>
+                    <h2>fotos</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
