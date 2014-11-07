@@ -177,28 +177,28 @@
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-1.jpg">
+                                    <img class="img-portfolio img-responsive" src="https://pbs.twimg.com/profile_images/483566374157955073/apgfMj9m_400x400.png">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-2.jpg">
+                                    <img class="img-portfolio img-responsive" src="http://www.cronista.com/__export/1402922969738/sites/diarioelcronista/img/2014/06/16/cc160614f012f11.jpg">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-3.jpg">
+                                    <img class="img-portfolio img-responsive" src="http://mla-s1-p.mlstatic.com/usb-perifericos-pc-12388-MLA20058037189_032014-Y.jpg">
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
+                                    <img class="img-portfolio img-responsive" src="http://www.redaccionabierta.com.ar/wp-content/uploads/2014/07/TARJETA.jpg">
                                 </a>
                             </div>
                         </div>
