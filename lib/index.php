@@ -61,8 +61,8 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1>Tucumán Bitcoin</h1>
-            <h1>Recarga la tarjeta Ciudadana con Bitcoins ;)</h1>
+            <h1>Tucumán Bitcoin respaldado por Coinbase.com.ar</h1>
+            <h1>Recargas de tarjetas Ciudadana &amp; Metropolitana mediante Bitcoins</h1>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Averiguar más</a>
         </div>
@@ -143,13 +143,11 @@
                                 <i class="fa fa-shield fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>comercios </strong>
+                                    <strong>Negocios adheridos</strong>
                                 </h4>
                                 <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnología.</p>
                                 <a href="http://tucubondi.com.ar/ciudadana" class="btn btn-light">Mapa de Comercios</a>
-                                <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Pay With Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
-				
-				</div>
+                            </div>
                         </div>
                     </div>
                     <!-- /.row (nested) -->
@@ -164,7 +162,7 @@
     <!-- Calloutpl -->
     <aside class="callout">
         <div class="text-vertical-center">
-            <h1>En conjunto con CoinBase.com.ar</h1>
+            <h1>Planificación integral</h1>
         </div>
     </aside>
 
