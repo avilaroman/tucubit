@@ -1,28 +1,13 @@
-== README
+Tucubit es una web para la recarga de la tarjeta ciudadana con bitcoins.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+La utilización de este software tiene licencia "Web Retrosocial". Tienes un PDF explicando que significa eso de Licencia Web Retrosocial. Básicamente que puedes hacer lo que quieras con el código, pero si obtienes un beneficio de él debes destinarlo a ayuda infantil mediante un sistema de votación de los usuarios que tengas.
 
-Things you may want to cover:
+En la documentación que hemos añadido al proyecto están también algunos diseños de las vistas, del mapa de navegación y los resultados de los tests de usabilidad que hicimos.
 
-* Ruby version
+Es un proyecto que lo lanzamos con una versión anterior de Rails y hemos tenido que actualizarlo a la 2.0.2.
 
-* System dependencies
+Puedes crear un Tomatime para tus amigos, ciudad, tienda, etc.
 
-* Configuration
+El Código Fuente tiene licencia MIT pero las imágenes tienen licencia tipo ARTÍSTICA: http://www.safecreative.org/work-view.shtml?cid=4736&id=601
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Esperemos que os sirva sobre todo para aprender mas de Ruby on Rails :)
