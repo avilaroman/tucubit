@@ -2,20 +2,16 @@ tucubit
 =======
 
 {{Ficha de sitio web
-|nombre        = TucuBit<!-- Añade el nombre aquí -->
-|logotipo      = 
-|captura       = 
-|pie           = 
+|nombre        = TucuBit
 |url           = http://tucubit.com
-|comercial     = si <!--Sí tiene ánimo de lucro, añade sí-->
+|comercial     = si
 |tipo          = criptomoneda
 |usuarios      = de la red bitcoin
 |español    = si
 |propietario   = avilaroman
 |creador       = avilaroman
-|lanzamiento   = {{fecha de lanzamiento|03|09|2014}}<!-- Sugerido: {{fecha de lanzamiento|DD|MM|AAAA}} -->
-|alexa         = 
-|estado actual = On Line - corriendo<!--Continua o abandonado-->
+|lanzamiento   = {{fecha de lanzamiento|03|09|2014}}
+|estado actual = On Line - corriendo
 }}
 
 '''TucuBit.com''' es un sitio web destinado a la recarga de tarjetas ciudadanas mediante Bitcoins, fundada en 2014. Con la creciente adopción de la criptomoneda y promete tener aceptación popular.<ref>{{cita web |url= |título= |fechaacceso={{<includeonly>subst:</includeonly>CURRENTDAY}} de {{<includeonly>subst:</includeonly>CURRENTMONTHNAME}} de {{<includeonly>subst:</includeonly>CURRENTYEAR}} |autor= |fecha= |obra= |idioma= |cita= }}</ref> Ofrece un servicio social para la comunidad, con la comodidad de hacer la recarga desde la casa.
