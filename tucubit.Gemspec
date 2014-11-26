@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
 s.name        = 'tucubit'
 s.version     = '0.1.2'
 s.date        = '2014-08-16'
-s.summary     = "tax script para tarjeta ciudadana"
+s.summary     = "tax script para la recarga de la tarjeta ciudadana con Bitcoins"
 s.description = "pago de bitcoins en pesos"
 s.authors     = ["avilaroman"]
 s.email       = 'avilaroman@gmail.com'
