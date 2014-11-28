@@ -1,67 +1,62 @@
+
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
+
 <head>
-  <title>The change you wanted was rejected (422)</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <style>
-  body {
-    background-color: #EFEFEF;
-    color: #2E2F30;
-    text-align: center;
-    font-family: arial, sans-serif;
-    margin: 0;
-  }
-
-  div.dialog {
-    width: 95%;
-    max-width: 33em;
-    margin: 4em auto 0;
-  }
-
-  div.dialog > div {
-    border: 1px solid #CCC;
-    border-right-color: #999;
-    border-left-color: #999;
-    border-bottom-color: #BBB;
-    border-top: #B00100 solid 4px;
-    border-top-left-radius: 9px;
-    border-top-right-radius: 9px;
-    background-color: white;
-    padding: 7px 12% 0;
-    box-shadow: 0 3px 8px rgba(50, 50, 50, 0.17);
-  }
-
-  h1 {
-    font-size: 100%;
-    color: #730E15;
-    line-height: 1.5em;
-  }
-
-  div.dialog > p {
-    margin: 0 0 1em;
-    padding: 1em;
-    background-color: #F7F7F7;
-    border: 1px solid #CCC;
-    border-right-color: #999;
-    border-left-color: #999;
-    border-bottom-color: #999;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px;
-    border-top-color: #DADADA;
-    color: #666;
-    box-shadow: 0 3px 8px rgba(50, 50, 50, 0.17);
-  }
-  </style>
+	<title>Famoso cuatrocientos ventidos 422! </title>
+    
+	<link type="text/css" rel="stylesheet" media="all" href="http://www.jumpingjackrabbit.com/ui/css/plax.css" />
+    <!--[if lt IE 9]>
+		<style type="text/css">
+		  .download { background: #011A30; }
+		</style>
+	<![endif]-->
 </head>
-
 <body>
-  <!-- This file lives in public/422.html -->
-  <div class="dialog">
-    <div>
-      <h1>The change you wanted was rejected.</h1>
-      <p>Maybe you tried to change something you didn't have access to.</p>
-    </div>
-    <p>If you are the application owner check the logs for more information.</p>
-  </div>
-</body>
+
+<div id="parallax">
+    <div id="sky"><img src="http://www.jumpingjackrabbit.com/ui/images/bg_moon.gif" /></div> 
+    <div id="mountains"></div> 
+    <div id="trees"></div> 
+    <div id="rabbit">
+</div> 
+    <div id="hill"></div> 
+    <div id="sign"></div>
+    <div id="content">
+            <div id="content404">
+            <a href="http://www.tucubit.com" class="logo" title="TucuBit.com"><img src="http://i62.tinypic.com/nvqjid.png" alt="TucuBit.com bitcoin en pesos" /></a>
+            <h2>EL Famoso cuatrocientos cuatro 404!</h2>
+            <p style="color: #fff;">puedes que le hayas errado al ponchazo pero puedes probar corrigiendo la URL :)<br />
+                proyecto mantenido por tucubit.com <a href="http://www.tucubit.com">home</a>?</p>
+            <p><a href="#" class="downloadlink">Descarga la imagen como fondo de pantallas ;)</a></p>
+            <div class="download"><a href="http://www.jumpingjackrabbit.com/wallpapers/JRD-SnowMonster-1920x1200.jpg" target="_blank">1920x1200</a> <a href="http://www.jumpingjackrabbit.com/wallpapers/JRD-SnowMonster-1600x1200.jpg" target="_blank">1600x1200</a> <a href="http://www.jumpingjackrabbit.com/wallpapers/JRD-SnowMonster-1280x1024.jpg" target="_blank">1280x1024</a> <a href="http://www.jumpingjackrabbit.com/wallpapers/JRD-SnowMonster-1024x768.jpg" target="_blank">1024x768</a> <a href="http://www.jumpingjackrabbit.com/wallpapers/JRD-SnowMonster-iPhone.jpg" target="_blank">iPhone</a></div>
+        </div>
+</div> 
+</div>
+
+
+
+
+    <script src="http://www.jumpingjackrabbit.com/ui/js/jquery.js"></script>
+    
+    <script src="http://www.jumpingjackrabbit.com/ui/js/plax.js"></script>
+    <script type="text/javascript">
+    
+        jQuery(document).ready(function(){
+            $('#sky').plaxify({"xRange":10,"yRange":0})
+            $('#mountains').plaxify({"xRange":25,"yRange":2})
+            $('#trees').plaxify({"xRange":40,"yRange":8})
+            $('#rabbit').plaxify({"xRange":55,"yRange":14})
+            $('#hill').plaxify({"xRange":90,"yRange":40})
+            $('#sign').plaxify({"xRange":185,"yRange":80})
+            $('#content').plaxify({"xRange":55,"yRange":14})
+            $.plax.enable();
+            $('.downloadlink').click(function(e){
+                e.preventDefault();
+                $('.download').slideDown();
+            });
+      });
+    </script>
+    </body>
 </html>
