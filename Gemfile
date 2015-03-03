@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.4'
+gem 'rails', '4.1.7'
 # Use postgresql as the database for Active Record
 gem 'pg'
-gem 'rails_12factor', group: :production
-gem 'puma'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 # Use sqlite3 as the database for Active Record
@@ -36,7 +35,8 @@ gem 'spring',        group: :development
 # Use unicorn as the app server
 #gem 'tucubit'
 gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
-
+gem 'rails_12factor', group: :production
+gem 'puma'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
