@@ -10,8 +10,10 @@
     <meta name="Description" CONTENT="Recarga la Tarjeta Ciudadana con Bitcoins!">
     <meta name="robots" content="noindex,nofollow">
     <meta name="keywords" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas">
+    <meta name="description" content="Recarga la Tarjeta Ciudadana con Bitcoins! tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
     <title>TucuBit.com - Bitcoins en Pesos</title>
-
+<meta name="robots" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
+<meta name="googlebot" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <link href="css/stylish-portfolio.css" rel="stylesheet">
