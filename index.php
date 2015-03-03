@@ -53,8 +53,8 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <h1>Tucumán Bitcoin</h1>
-            <h1>Recarga la tarjeta Ciudadana con Bitcoins ;)</h1>
+            <h1>Tucumán Bitcoin ฿</h1>
+            <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
             <a href="#about" class="btn btn-dark btn-lg">Averiguar más</a>
         </div>
