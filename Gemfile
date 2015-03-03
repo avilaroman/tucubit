@@ -31,7 +31,7 @@ gem 'spring',        group: :development
 gem 'rails_12factor', group: :production
 # Use unicorn as the app server
 #gem 'tucubit'
-gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
+#gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
