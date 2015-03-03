@@ -15,7 +15,7 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer',  platforms: :ruby
 
 # Use jquery as the JavaScript library
-#gem 'jquery-rails'
+gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
@@ -31,7 +31,7 @@ gem 'spring',        group: :development
 gem 'rails_12factor', group: :production
 # Use unicorn as the app server
 #gem 'tucubit'
-#gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
+gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
