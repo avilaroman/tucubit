@@ -12,12 +12,15 @@ propietario   = avilaroman
 creador       = avilaroman
 lanzamiento   = {{fecha de lanzamiento|03|09|2014}}
 estado actual = On Line - corriendo
-___________                 __________.__  __                             
-\__    ___/_ __   ____  __ _\______   \__|/  |_       ____  ____   _____  
-  |    | |  |  \_/ ___\|  |  \    |  _/  \   __\    _/ ___\/  _ \ /     \ 
-  |    | |  |  /\  \___|  |  /    |   \  ||  |      \  \__(  <_> )  Y Y  \
-  |____| |____/  \___  >____/|______  /__||__|   /\ /\___  >____/|__|_|  /
-                     \/             \/           \/ \/   \/            \/ 
+| logo en ASCII                                                              |               |   
+| -------------------------------------------------------------------------- |:-------------:|
+| ___________                 __________.__  __                              |:-------------:|
+|\__    ___/_ __   ____  __ _\______   \__|/  |_       ____  ____   _____    |:-------------:|
+|  |    | |  |  \_/ ___\|  |  \    |  _/  \   __\    _/ ___\/  _ \ /     \   |:-------------:|
+|  |    | |  |  /\  \___|  |  /    |   \  ||  |      \  \__(  <_> )  Y Y  \  |:-------------:|
+|  |____| |____/  \___  >____/|______  /__||__|   /\ /\___  >____/|__|_|  /  |:-------------:|
+|                     \/             \/           \/ \/   \/            \/   |:-------------:|
+
 
 '''TucuBit.com''' es un sitio web destinado a la recarga de tarjetas ciudadanas mediante Bitcoins, fundada en 2014. Con la creciente adopción de la criptomoneda y promete tener aceptación popular.<ref>{{cita web |url= |título= |fechaacceso={{<includeonly>subst:</includeonly>CURRENTDAY}} de {{<includeonly>subst:</includeonly>CURRENTMONTHNAME}} de {{<includeonly>subst:</includeonly>CURRENTYEAR}}  Ofrece un servicio social para la comunidad, con la comodidad de hacer la recarga desde la casa.
 
