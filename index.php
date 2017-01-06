@@ -27,6 +27,16 @@
     <!-- Navigation -->
     <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
     <nav id="sidebar-wrapper">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Tucubit.com -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5114008889390110"
+     data-ad-slot="4085594612"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
@@ -56,7 +66,12 @@
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
-            <a href="#about" class="btn btn-dark btn-lg">Averiguar más</a>
+            <a href="#about" class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<form action="https://bitpay.com/checkout" method="post" >
+  <input type="hidden" name="action" value="checkout" />
+  <input type="hidden" name="posData" value="" />
+  <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
+  <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+</form></a>
         </div>
     </header>
 
@@ -241,9 +256,9 @@
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h4><strong>Tucumán Bitcoins</strong>
                     </h4>
-                    <p>1003 Córdoba <br>San Miguel de Tucumán, TUC Arg</p>
+                    <p>Corrientes 415 Piso:1 Depto:3 <br>San Miguel de Tucumán, TUC Arg</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (0381) 430-2885</li>
+                        <li><i class="fa fa-phone fa-fw"></i> (0381) 155-933506</li>
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:avilaroman@gmail.com">info@TucuBit.com</a>
                         </li>
                     </ul>
@@ -260,7 +275,7 @@
                         </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; TucuBit.com 2014</p>
+                    <p class="text-muted">Copyright &copy; TucuBit.com 2017</p>
                 </div>
             </div>
         </div>
