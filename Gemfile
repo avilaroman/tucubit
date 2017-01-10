@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.7'
 # Use postgresql as the database for Active Record
 
-
+gem 'pg'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 # Use sqlite3 as the database for Active Record
