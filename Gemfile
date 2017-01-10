@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.7'
 # Use postgresql as the database for Active Record
-gem 'pg'
+
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -36,7 +36,7 @@ gem 'spring',        group: :development
 #gem 'tucubit'
 gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
 gem 'rails_12factor', group: :production
-gem 'puma'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
