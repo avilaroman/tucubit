@@ -66,7 +66,7 @@
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
-            <a href="#about" class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<form action="https://bitpay.com/checkout" method="post" >
+            <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<form action="https://bitpay.com/checkout" method="post" >
   <input type="hidden" name="action" value="checkout" />
   <input type="hidden" name="posData" value="" />
   <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
