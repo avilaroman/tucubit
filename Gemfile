@@ -34,7 +34,7 @@ gem 'spring',        group: :development
 # gem 'bcrypt', '~> 3.1.7'
 # Use unicorn as the app server
 #gem 'tucubit'
-gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
+#gem 'spree_i18n', github: 'spree/spree_i18n', branch: 'master'
 gem 'rails_12factor', group: :production
 
 # Use Capistrano for deployment
