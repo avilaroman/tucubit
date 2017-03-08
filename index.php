@@ -75,7 +75,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>mediante el uso de la Plataforma Bitpay</h2>
+                    <h2>Mediante el uso de la Plataforma <a target="_blank" href="https://coinbase.com/join/avilaroman">Coinbase</a></h2>
                     <p class="lead">generación de código QR para la recarga deseada.   <a target="_blank" href="https://docs.google.com/forms/d/1NwUnJbzSFHApX_I-L8L-Y22VKIhHiG9j7S125yNs3Ms/viewform?fbzx=-7550119633173171882">Alta de Usuario en Tucubit.com</a>.</p>
                 </div>
             </div>
@@ -169,9 +169,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>fotos</h2>
+                    <h2>Imágenes</h2>
                     <hr class="small">
                     <div class="row">
+                        <div class="col-md-6">
+                            <div class="portfolio-item">
+                                <a href="#">
+                                    <img class="img-portfolio img-responsive" src="http://nuevaeratuc.com.ar/wp-content/uploads/2016/05/ciudadana.jpg">
+                                </a>
+                            </div>
+                        </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
@@ -193,13 +200,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
-                                    <img class="img-portfolio img-responsive" src="http://nuevaeratuc.com.ar/wp-content/uploads/2016/05/ciudadana.jpg">
-                                </a>
-                            </div>
-                        </div>
+                        
                     </div>
                     <!-- /.row (nested) -->
                     <a href="#" class="btn btn-dark">Ver más items</a>
