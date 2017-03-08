@@ -66,12 +66,7 @@
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
-            <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<form action="https://bitpay.com/checkout" method="post" >
-  <input type="hidden" name="action" value="checkout" />
-  <input type="hidden" name="posData" value="" />
-  <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
-  <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
-</form></a>
+            <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
         </div>
     </header>
 
@@ -120,12 +115,7 @@
                                 </h4>
                                 <p>Recarga de saldo mediante Bitcoins, fácil y rápido</p>
                                 <a href="#" class="btn btn-light">Recargar!</a>
-                                <form action="https://bitpay.com/checkout" method="post" >
-  <input type="hidden" name="action" value="checkout" />
-  <input type="hidden" name="posData" value="" />
-  <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
-  <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
-</form>
+                                <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -152,7 +142,7 @@
                                 </h4>
                                 <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnología.</p>
                                 <a href="http://tucubondi.com.ar/ciudadana" class="btn btn-light">Mapa de Comercios</a>
-                                <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Pay With Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
+                                <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
                 
                 </div>
                         </div>
