@@ -163,7 +163,7 @@
     <aside class="callout">
         <div class="text-vertical-center">
             <h1></h1>
-            <a href="https://www.coinbase.com/join/avilaroman"><h1>En conjunto con CoinBase.com refer link</h1></a>
+            <a href="https://www.coinbase.com/join/avilaroman"><h1>Abrir Monedero con CoinBase.com</h1></a>
         </div>
     </aside>
 
@@ -206,7 +206,7 @@
                         
                     </div>
                     <!-- /.row (nested) -->
-                    <a href="#" class="btn btn-dark">Ver más items</a>
+                    <a href="#" class="btn btn-dark">Subir</a>
                 </div>
                 <!-- /.col-lg-10 -->
             </div>
@@ -221,14 +221,13 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h3>Noticias sobre la Fundación Bitcoin Argentina.</h3>
-                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-light">Click aquí!</a>
-                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-dark">Mírame!</a>
+                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-dark">hechar un viztazo!</a>
                     <form action="https://bitpay.com/checkout" method="post" >
-  <input type="hidden" name="action" value="checkout" />
-  <input type="hidden" name="posData" value="" />
-  <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
-  <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
-</form>
+                      <input type="hidden" name="action" value="checkout" />
+                      <input type="hidden" name="posData" value="" />
+                      <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
+                      <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+                    </form>
                 </div>
             </div>
         </div>
