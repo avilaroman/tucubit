@@ -63,41 +63,17 @@
     <!-- Header --> 
     <header id="top" class="header">
         <div class="text-vertical-center">
-        >
-            
-        </div>
-        <div class="container">
-    <video id="bgVideo" src="/img/tucuman.mp4" width="100%" height="100%" controls autoplay loop preload></video>
-        <source src="/img/tucuman.mp4" type="video/mp4" />
-    </video>
-    <div class="overlay">
+        <video id="tucuman" autoplay loop poster="/img/bg.jpg">
+      <!-- Video is embedded in the WEBM format -->
+      <source src="/img/tucuman.mp4" type="video/mp4">
+        <div class="container"> 
         <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
             <a class="btn btn-dark btn-lg" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e"><h2>Ciudadana<h2></a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
-    </div>
-</div>
-        <style type=”text/css”>
-
-            video#bgVideo {
-              position: absolute; // Play the video in full screen mode
-              top: 0px; 
-              left: 0px; 
-              min-width: 100%; 
-              min-height: 100%;
-              z-index: -1; // Put the video behind all other elements
-            }
-
-            @media only screen and (max-width: 768px) {
-              video {
-                display:none;
-              }
-              body{
-                background-image:url(“image.png”);
-              }
-            }
-        </style>
-
+            
+        </div>
+        </div>
     </header>
 
     <!-- About -->
