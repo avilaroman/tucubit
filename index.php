@@ -69,7 +69,7 @@
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
-            <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
+            <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
         </div>
     </header>
 
@@ -78,7 +78,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Mediante el uso de la Plataforma <a target="_blank" href="https://coinbase.com/join/avilaroman">Coinbase</a></h2>
+                    <h3>Recarga de la tarjeta Ciudadana mediante el uso de la Plataforma <a target="_blank" href="https://coinbase.com/join/avilaroman">Coinbase</a></h3>
                     <p class="lead">generación de código QR para la recarga deseada.   <a target="_blank" href="https://docs.google.com/forms/d/1NwUnJbzSFHApX_I-L8L-Y22VKIhHiG9j7S125yNs3Ms/viewform?fbzx=-7550119633173171882">Alta de Usuario en Tucubit.com</a>.</p>
                 </div>
             </div>
@@ -117,8 +117,7 @@
                                     <strong>Recarga Bitcoin</strong>
                                 </h4>
                                 <p>Recarga de saldo mediante Bitcoins, fácil y rápido</p>
-                                <a href="#" class="btn btn-light">Recargar!</a>
-                                <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
+                                <a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e" class="btn btn-light">Recargar!</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -145,7 +144,6 @@
                                 </h4>
                                 <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnología.</p>
                                 <a href="http://tucubondi.com.ar/ciudadana" class="btn btn-light">Mapa de Comercios</a>
-                                <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
                 
                 </div>
                         </div>
@@ -235,7 +233,7 @@
 
     <!-- Map -->
     <section id="contact" class="map">
-        <iframe width="100%" height="100%" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+        <iframe width="100%" height="80%" frameborder="0" scrolling="yes" marginheight="20" marginwidth="20" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
         <br />
         <small>
             <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
