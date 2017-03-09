@@ -9,11 +9,11 @@
     <meta name="author" content="avilaroman">
     <meta name="Description" CONTENT="Recarga la Tarjeta Ciudadana con Bitcoins!">
     <meta name="robots" content="noindex,nofollow">
-    <meta name="keywords" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas">
-    <meta name="description" content="Recarga la Tarjeta Ciudadana con Bitcoins! tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
+    <meta name="keywords" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumÃ¡n,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas">
+    <meta name="description" content="Recarga la Tarjeta Ciudadana con Bitcoins! tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumÃ¡n,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
     <title>TucuBit.com - Bitcoins en Pesos</title>
-    <meta name="robots" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
-    <meta name="googlebot" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumán,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
+    <meta name="robots" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumÃ¡n,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
+    <meta name="googlebot" content="tucubit,tucubit.com,avilaroman,bitcoins,bitcoin,tucuman,monteros,tucumÃ¡n,san miguel de tucuman,tarjeta ciudadana,ciudadana,ciudadana bitcoin,ciudadana bitcoins,btc,xtc, recarga de tarjeta ciudadana,tarjetas ciudadanas" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <link href="css/stylish-portfolio.css" rel="stylesheet">
@@ -40,7 +40,7 @@
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
-                <a href="#top">Tucumán Bitcoins</a>
+                <a href="#top">TucumÃ¡n Bitcoins</a>
             </li>
             <li>
                 <a href="#top">Inicio</a>
@@ -62,12 +62,12 @@
 
     <!-- Header -->
     <header id="top" class="header">
-    <video playsinline autoplay muted loop poster="/img/bg.jpg" id="bgvid">
-        <source src="/img/tucuman.mp4" type="video/mp4">
+    <video playsinline autoplay muted loop poster="../img/bg.jpg" id="bgvid">
+        <source src="../img/tucuman.mp4" type="video/mp4">
     </video>
         <div class="text-vertical-center">
-            <h1>Tucumán Bitcoin ฿</h1>
-            <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
+            <h1>TucumÃ¡n Bitcoin à¸¿</h1>
+            <h1>Recarga la tarjeta Ciudadana con à¸¿itcoins ;)</h1>
             <br>
             <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
         </div>
@@ -79,7 +79,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Mediante el uso de la Plataforma <a target="_blank" href="https://coinbase.com/join/avilaroman">Coinbase</a></h2>
-                    <p class="lead">generación de código QR para la recarga deseada.   <a target="_blank" href="https://docs.google.com/forms/d/1NwUnJbzSFHApX_I-L8L-Y22VKIhHiG9j7S125yNs3Ms/viewform?fbzx=-7550119633173171882">Alta de Usuario en Tucubit.com</a>.</p>
+                    <p class="lead">generaciÃ³n de cÃ³digo QR para la recarga deseada.   <a target="_blank" href="https://docs.google.com/forms/d/1NwUnJbzSFHApX_I-L8L-Y22VKIhHiG9j7S125yNs3Ms/viewform?fbzx=-7550119633173171882">Alta de Usuario en Tucubit.com</a>.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -103,7 +103,7 @@
                                 <h4>
                                     <strong>Consulta de saldo</strong>
                                 </h4>
-                                <p>Ingresá tu numero de tarjeta y realizás una consulta de saldo en la tarjeta Ciudadana.</p>
+                                <p>IngresÃ¡ tu numero de tarjeta y realizÃ¡s una consulta de saldo en la tarjeta Ciudadana.</p>
                                 <a href="http://tucuman.miredbus.com.ar/" class="btn btn-light">Consultar Saldo ya!</a>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                                 <h4>
                                     <strong>Recarga Bitcoin</strong>
                                 </h4>
-                                <p>Recarga de saldo mediante Bitcoins, fácil y rápido</p>
+                                <p>Recarga de saldo mediante Bitcoins, fÃ¡cil y rÃ¡pido</p>
                                 <a href="#" class="btn btn-light">Recargar!</a>
                                 <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
                             </div>
@@ -143,7 +143,7 @@
                                 <h4>
                                     <strong>comercios </strong>
                                 </h4>
-                                <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnología.</p>
+                                <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnologÃ­a.</p>
                                 <a href="http://tucubondi.com.ar/ciudadana" class="btn btn-light">Mapa de Comercios</a>
                                 <a class="coinbase-button" data-code="eb35385701ac70d457266a4eaee0db7e" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script>
                 
@@ -163,7 +163,7 @@
     <aside class="callout">
         <div class="text-vertical-center">
             <h1></h1>
-            <a href="https://www.coinbase.com/join/avilaroman"><h1>Abrir Monedero con CoinBase.com</h1></a>
+            <a href="https://www.coinbase.com/join/avilaroman"><h1>En conjunto con CoinBase.com refer link</h1></a>
         </div>
     </aside>
 
@@ -172,7 +172,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Imágenes</h2>
+                    <h2>ImÃ¡genes</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
@@ -206,7 +206,7 @@
                         
                     </div>
                     <!-- /.row (nested) -->
-                    <a href="#" class="btn btn-dark">Subir</a>
+                    <a href="#" class="btn btn-dark">Ver mÃ¡s items</a>
                 </div>
                 <!-- /.col-lg-10 -->
             </div>
@@ -220,14 +220,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3>Noticias sobre la Fundación Bitcoin Argentina.</h3>
-                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-dark">hechar un viztazo!</a>
+                    <h3>Noticias sobre la FundaciÃ³n Bitcoin Argentina.</h3>
+                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-light">Click aquÃ­!</a>
+                    <a href="http://www.bitcoinargentina.org/" class="btn btn-lg btn-dark">MÃ­rame!</a>
                     <form action="https://bitpay.com/checkout" method="post" >
-                      <input type="hidden" name="action" value="checkout" />
-                      <input type="hidden" name="posData" value="" />
-                      <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
-                      <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
-                    </form>
+  <input type="hidden" name="action" value="checkout" />
+  <input type="hidden" name="posData" value="" />
+  <input type="hidden" name="data" value="hVydPo8qRZ1ky7UguN8FQcYOPdv4kh5fWlM9iVQqvnq80jnmp3zOK1gXR4FgqbrlBJihBkl36bDRqJZtnZNyqDJXL/rfVqHWLR6kej8V3tsgJH0XgFSDSZ7YpOznLRKVEAl+IEGajDxTbWcyh01MhPbcjTDybmCwu7ES01WNkh1muG4cjoYWRPBEasRKSnfXf24UXF/ueM/I+1vxkTZ2oVNC67C3eSReeV5FU+9kQokg3ng7xZbjT8EnodPS+sQ70jTtB9rPvH8w5WMFAvHyO2kLsbcrz3Z+cpzcdiJpWbA=" />
+  <input type="image" src="https://bitpay.com/img/button2.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+</form>
                 </div>
             </div>
         </div>
@@ -248,9 +249,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Tucumán Bitcoins</strong>
+                    <h4><strong>TucumÃ¡n Bitcoins</strong>
                     </h4>
-                    <p>Corrientes 415 Piso:1 Depto:3 <br>San Miguel de Tucumán, TUC Arg</p>
+                    <p>Corrientes 415 Piso:1 Depto:3 <br>San Miguel de TucumÃ¡n, TUC Arg</p>
                     <ul class="list-unstyled">
                         <li><i class="fa fa-phone fa-fw"></i> (0381) 155-933506</li>
                         <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:avilaroman@gmail.com">info@TucuBit.com</a>
