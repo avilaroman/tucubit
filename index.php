@@ -62,6 +62,9 @@
 
     <!-- Header -->
     <header id="top" class="header">
+    <video playsinline autoplay muted loop poster="/img/bg.jpg" id="bgvid">
+        <source src="tucuman.mp4" type="video/mp4">
+    </video>
         <div class="text-vertical-center">
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
