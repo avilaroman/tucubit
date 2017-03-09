@@ -52,7 +52,7 @@
                 <a href="#services">Para que sirve?</a>
             </li>
             <li>
-                <a href="www.coinbase.com.ar">Monedero</a>
+                <a href="www.coinbase.com/join/avilaroman">Monedero</a>
             </li>
             <li>
                 <a href="#contact">Contacto</a>
@@ -62,9 +62,9 @@
 
     <!-- Header -->
     <header id="top" class="header">
-    <video playsinline autoplay muted loop poster="/img/bg.jpg" id="bgvid">
+    <!--<video playsinline autoplay muted loop poster="/img/bg.jpg" id="bgvid">
         <source src="/img/tucuman.mp4" type="video/mp4">
-    </video>
+    </video> -->
         <div class="text-vertical-center">
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
@@ -78,7 +78,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3>Recarga de la tarjeta Ciudadana mediante el uso de la Plataforma <a target="_blank" href="https://coinbase.com/join/avilaroman">Coinbase</a></h3>
+                    <h2>Recarga de la tarjeta Ciudadana mediante el uso de la Plataforma <a target="_blank" href="https://coinbase.com/join/avilaroman">Coinbase</a></h2>
                     <p class="lead">generación de código QR para la recarga deseada.   <a target="_blank" href="https://docs.google.com/forms/d/1NwUnJbzSFHApX_I-L8L-Y22VKIhHiG9j7S125yNs3Ms/viewform?fbzx=-7550119633173171882">Alta de Usuario en Tucubit.com</a>.</p>
                 </div>
             </div>
@@ -233,7 +233,7 @@
 
     <!-- Map -->
     <section id="contact" class="map">
-        <iframe width="100%" height="80%" frameborder="0" scrolling="yes" marginheight="20" marginwidth="20" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+        <iframe width="80%" height="80%" frameborder="20" scrolling="yes" marginheight="20" marginwidth="20" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
         <br />
         <small>
             <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
