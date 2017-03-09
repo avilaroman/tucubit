@@ -35,7 +35,7 @@
      data-ad-slot="4085594612"
      data-ad-format="auto"></ins>
 <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
+//(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
@@ -46,10 +46,10 @@
                 <a href="#top">Inicio</a>
             </li>
             <li>
-                <a href="#about">Que es?</a>
+                <a href="#services"> ¿Qué es?</a>
             </li>
             <li>
-                <a href="#services">Para que sirve?</a>
+                <a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Hacer Recarga</a>
             </li>
             <li>
                 <a href="www.coinbase.com/join/avilaroman">Monedero</a>
@@ -66,11 +66,34 @@
         <source src="/img/tucuman.mp4" type="video/mp4">
     </video>
         <div class="text-vertical-center">
+        <video id="bgVideo" autoplay loop src="/img/tucuman.mp4" width="100%" height="100%" controls autoplay preload></video>
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
-            <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
+            <a class="btn btn-dark btn-lg" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e"><h2>Ciudadana<h2></a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
         </div>
+
+        <style type=”text/css”>
+
+            video#bgVideo {
+              position: absolute; // Play the video in full screen mode
+              top: 0px; 
+              left: 0px; 
+              min-width: 100%; 
+              min-height: 100%;
+              z-index: -1; // Put the video behind all other elements
+            }
+
+            @media only screen and (max-width: 768px) {
+              video {
+                display:none;
+              }
+              body{
+                background-image:url(“image.png”);
+              }
+            }
+        </style>
+
     </header>
 
     <!-- About -->
