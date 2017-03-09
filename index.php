@@ -64,17 +64,18 @@
     <header id="top" class="header">
         <div class="text-vertical-center"> 
         <div class="container">
-        
+        <div class="fullscreen-bg">
+    <video controls autoplay preload="auto"  width="100" height="360">
+    <source src="http://tucubit.com/img/tucuman.mp4" type="video/mp4" />
+    Tu navegador no soporta HTML5 Video
+</video>
+</div>
         <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
             <a class="btn btn-dark btn-lg" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e"><h2>Ciudadana<h2></a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
-        <div class="fullscreen-bg">
-    <video loop muted autoplay poster="img/videoframe.jpg" class="fullscreen-bg__video">
-        <source src="img/tucuman.mp4" type="video/mp4">
-        
-    </video>
-</div>    
+            </font>
+            
         </div>
         </div>
     </header>
