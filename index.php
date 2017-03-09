@@ -62,17 +62,21 @@
 
     <!-- Header --> 
     <header id="top" class="header">
-    <video playsinline autoplay muted loop poster="/img/bg.jpg" id="bgvid">
-        <source src="/img/tucuman.mp4" type="video/mp4">
-    </video>
         <div class="text-vertical-center">
-        <video id="bgVideo" autoplay loop src="/img/tucuman.mp4" width="100%" height="100%" controls autoplay preload></video>
-            <h1>Tucumán Bitcoin ฿</h1>
+        >
+            
+        </div>
+        <div class="container">
+    <video id="bgVideo" src="/img/tucuman.mp4" width="100%" height="100%" controls autoplay loop preload></video>
+        <source src="/img/tucuman.mp4" type="video/mp4" />
+    </video>
+    <div class="overlay">
+        <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
             <a class="btn btn-dark btn-lg" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e"><h2>Ciudadana<h2></a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
-        </div>
-
+    </div>
+</div>
         <style type=”text/css”>
 
             video#bgVideo {
