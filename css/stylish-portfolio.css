@@ -171,9 +171,9 @@ hr.small {
     
 }
 video#bgvid {
-position: relative; right: 0; top:-120px; bottom: 0;
+position: absolute; right: 0; top:-120px; bottom: 0;
 min-width: 100%; min-height: 100%;
-width: auto; height: auto; z-index: -100;
+width: auto; height: auto; z-index: -1;
 background: url(img/aerea.jpg) no-repeat;
 background-size: cover;
 }
@@ -260,5 +260,4 @@ background-size: cover;
 
 footer {
     padding: 100px 0;
-    color: blue;
 }
