@@ -69,7 +69,7 @@
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
-            <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
+            <a class="btn btn-dark btn-lg" href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
             
         </div>
     </header>
@@ -105,7 +105,7 @@
                                     <strong>Consulta de saldo</strong>
                                 </h4>
                                 <p>Ingresá tu numero de tarjeta y realizás una consulta de saldo en la tarjeta Ciudadana.</p>
-                                <a href="http://tucuman.miredbus.com.ar/" class="btn btn-light">Consultar Saldo ya!</a>
+                                <a href="http://tucuman.miredbus.com.ar/consultaSaldo.htm" class="btn btn-light">Consultar Saldo ya!</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -130,8 +130,8 @@
                                 <h4>
                                     <strong>Monedero Bitcoin</strong>
                                 </h4>
-                                <p>Mediante el API de coinbase, gestionar tu monedero .</p>
-                                <a href="http://www.coinbase.com.ar" class="btn btn-light">CoinBase.com.ar</a>
+                                <p>Usar Coinbase para crear tu monedero.</p>
+                                <a href="http://www.coinbase.com/join/avilaroman" class="btn btn-light">CoinBase.com</a>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6">
@@ -232,14 +232,16 @@
     </aside>
 
     <!-- Map -->
-    <section id="contact" class="map">
-        <iframe width="60%" height="60%" align="center" frameborder="0" scrolling="yes" marginheight="20" marginwidth="20" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+   <div align="center">
+    <section id="contact" class="map" align="center">
+        <iframe width="70%" height="70%" align="center" frameborder="0" scrolling="yes" marginheight="20" marginwidth="20" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
         <br />
         <small>
             <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Tucuman,+argentina&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
         </small>
         </iframe>
     </section>
+    </div>
 
     <!-- Footer -->
     <footer>

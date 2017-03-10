@@ -1082,6 +1082,7 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+  color: blue;
 }
 h3,
 .h3 {
@@ -1116,6 +1117,7 @@ p {
 small,
 .small {
   font-size: 85%;
+  color: blue;
 }
 cite {
   font-style: normal;
