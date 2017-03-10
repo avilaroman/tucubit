@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,8 +28,16 @@
     <!-- Navigation -->
     <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
     <nav id="sidebar-wrapper">
-        
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Tucubit.com -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5114008889390110"
+     data-ad-slot="4085594612"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
@@ -251,13 +260,13 @@
                     <br>
                     <ul class="list-inline">
                         <li>
-                            <a href="http://facebook.com"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                            <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
                         </li>
                         <li>
-                            <a href="http://twitter.com"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                            <a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
                         </li>
                         <li>
-                            <a href="http://github.com/avilaroman/tucubit"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
+                            <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
                         </li>
                     </ul>
                     <hr class="small">

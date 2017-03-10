@@ -1,0 +1,71 @@
+{{Ficha de organización
+|nombre             = TucuBit
+|logo               =[[Archivo:TucuBit.com logo.png|TucuBit.com logo]]
+|eslogan            = Recargas de tarjeta ciudadana con bitcoins
+|imagen             =[[Archivo:Captura de pantalla 2014-11-26 a las 6.59.05 p.m..png|thumb|tucubit tucubit.com]]
+|tamaño_imagen      =
+|pie_imagen         =
+|acrónimo           =
+|género             = Cobranzas extrabancarias
+|fundación          = [[2014]]
+|fundador           = |nombres_anteriores =
+|sede               = San Miguel de Tucumán<!-- ubicación geográfica de la sede principal -->
+|coordenadas        = 
+|área_de_influencia = Provincia de Tucumán
+|marcas             = 
+|servicios          =
+|holding            = Coinbase.com.ar
+|título_líder1      =
+|nombre_líder1      =
+|título_líder2      =
+|nombre_líder2      =
+|sitio_web          = http://www.tucubit.com/
+|reestructuración   =
+|notasalpie         = 
+|industria          = criptomoneda
+|productos          =
+|presupuesto        =
+|ingresos           =
+|beneficio_de_explotación =
+|beneficio_neto     =
+|activos            =
+|capital_social     =
+|propietario        = avilaroman
+|empleados          =
+|casa_matriz        = {{bandera|argentina}} Córdoba 1003, [[San Miguel de Tucumán]]
+|divisiones         =
+|afiliación         =
+|filiales           =1
+}}
+
+'''TucuBit''' es un canal de recargas mediante Bitcoins, con una red de usuarios que abarcan toda la provincia de Tucumán. Se dedica a la recarga de credito de la tarjeta y abonarlo en bitcoins, a través del uso de la plataforma coinbase como medio de pago. 
+
+TucuBit inició sus actividades en el año 2014. Es un servicio de utilidad pública pensada para el pueblo.
+
+==Características==
+TucuBit realiza la recarga de Tarjeta Ciudadana [[Tucumán]]. El proyecto posee un repositorio en Rubygems con documentación extra y permite la recarga sin factura y verifica con la cadena de bloques de la red Bitcoin.
+
+== Servicios ==
+En las sucursales donde se realiza la compra y/o recarga de tarjetas:<ref>http://www.TucuBit.com/index.php#</ref>
+
+* Consulta de Saldo 
+* Mapa de sucursales de recargas habilitadas.
+
+El sistema está sustentado en una plataforma tecnológica flexible, que le permite a los usuarios realizar las recargas las 24 horas y los 365 dias del año.
+
+==Operatoria==
+En la operatoria de TucuBit intervienen 3 actores:<ref>http://www.tucubit.com</ref> 
+ 
+# El Cliente de la Tarjeta Ciudadana, que debe recargar la tarjeta.
+# La red de cobranza Tucubit, que recargará la tarjeta. 
+# El Concentrador de pagos CoinBase, donde la transacción hace que se le deposite lo transferido. 
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* [http://www.tucubit.com/ Sitio oficial]
+* [http://www.coinbase.com.ar/ Sitio de Coinbase Argentina]
+* [https://rubygems.org/gems/tucubit/ gema TucuBit en Rubygems]
+
+[[Categoría: Empresas de Argentina]]

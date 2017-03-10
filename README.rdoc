@@ -1,0 +1,13 @@
+Tucubit es una web para la recarga de la tarjeta ciudadana con bitcoins.
+
+La utilización de este software tiene licencia "Web Retrosocial". Tienes un PDF explicando que significa eso de Licencia Web Retrosocial. Básicamente que puedes hacer lo que quieras con el código, pero si obtienes un beneficio de él debes destinarlo a ayuda infantil mediante un sistema de votación de los usuarios que tengas.
+
+En la documentación que hemos añadido al proyecto están también algunos diseños de las vistas, del mapa de navegación y los resultados de los tests de usabilidad que hicimos.
+
+Es un proyecto que lo lanzamos con una versión anterior de Rails y hemos tenido que actualizarlo a la 2.0.2.
+
+Puedes crear un Tomatime para tus amigos, ciudad, tienda, etc.
+
+El Código Fuente tiene licencia MIT pero las imágenes tienen licencia tipo ARTÍSTICA: http://www.safecreative.org/work-view.shtml?cid=4736&id=601
+
+Esperemos que os sirva sobre todo para aprender mas de Ruby on Rails :)
