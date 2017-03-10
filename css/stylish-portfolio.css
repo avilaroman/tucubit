@@ -156,27 +156,38 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(/img/tucuman.mp4) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+
+  text-align: center;
+
+  z-index: -100;
+  background: url(http://tucubit.com/img/tucuman.mp4) repeat;
+  background-size: cover;
 }
-video#bgvid { 
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    background: url(/img/bg.jpg) no-repeat;
-    background-size: cover; 
+#bgvid {
+  position: fixed;
+  text-align: center;
+  width: 80%;
+  height: 80%;
+  z-index: -100;
+  background: url(http://tucubit.com/img/tucuman.mp4) repeat;
+  background-size: cover;
+  -ms-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%); 
+}
+
+@media screen and (max-device-width: 800px) {
+    html {
+         background: url(video-bg.jpg) #000 no-repeat center center fixed;
+    }
+    #bgvid {
+        display: none;
+    }
 }
 /* About */
 
