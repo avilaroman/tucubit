@@ -62,14 +62,15 @@
 
     <!-- Header -->
     <header id="top" class="header">
+    <video autoplay muted loop poster="img/aerea.jpg" id="bgvid">
+                <source src="img/tucuman.mp4" type="video/mp4">
+            </video>
         <div class="text-vertical-center">
             <h1>Tucumán Bitcoin ฿</h1>
             <h1>Recarga la tarjeta Ciudadana con ฿itcoins ;)</h1>
             <br>
             <a class="btn btn-dark btn-lg">Recarga Inmediata de $50 pesos<a href="https://www.coinbase.com/checkouts/eb35385701ac70d457266a4eaee0db7e">Ciudadana Bitcoin</a><script src="https://www.coinbase.com/assets/button.js" type="text/javascript"></script></a>
-            <video autoplay muted loop poster="img/aerea.jpg">
-                <source src="http://tucubit.com/img/tucuman.mp4" type="video/mp4">
-            </video>
+            
         </div>
     </header>
 
@@ -142,7 +143,7 @@
                                 <h4>
                                     <strong>Comercios </strong>
                                 </h4>
-                                <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnologÃ­a.</p>
+                                <p>Una lista de las empresas tucumanas que ya cuentan con esta tecnología.</p>
                                 <a href="http://tucubondi.com.ar/ciudadana" class="btn btn-light">Mapa de Comercios</a>
                 </div>
                         </div>
